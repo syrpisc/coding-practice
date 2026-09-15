@@ -6,11 +6,12 @@
 
 - 思路：直接返回两数之和
 
+### 代码
+
 - 时间复杂度：O(1)
 
 - 空间复杂度：O(1)
 
-### 代码
 ```python
 class Solution(object):
     def sum(self, num1, num2):
